@@ -1,0 +1,2 @@
+This is a sample text file.
+It is being used to test the Python word counter.
